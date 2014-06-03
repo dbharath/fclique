@@ -1,0 +1,220 @@
+h1, h2, h3, h4, h5, h6, blockquote, p, address, form, fieldset, ul, ol, dl, dt, dd, li, section,hr, table, td, th, figure, header, nav, article, footer, figcaption { margin:0; padding:0; }
+figure, section, header, nav, article, footer, figcaption {display:block;}
+a, a:hover {
+text-decoration: none;
+}
+li {
+list-style-type: none;
+}
+
+.layoutSmall {
+    background: url("../images/header-strip.png") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+    height: auto;
+    width: 100%;
+}
+
+/*social media*/
+/*  listing hover pop up css start  */
+
+.deal-hover  {
+	
+	background:rgba(255,255,255,0.75); 
+	height: 35px; 
+	display: block; 
+	margin-bottom: 10px; 
+	margin-left: -10px; 
+	width: 218px; 
+	margin-top:-5px;
+   	
+}
+.deal-hover .shr-bg  {
+	
+	background:rgba(204,0,0,0.8); 
+	float:left; 
+	width:70px; 
+	margin-right:14px;
+   }
+
+.margin-ever {
+	margin:0 !important;
+	
+   	
+}
+
+.deal-hover .share {
+   font-size:16px; 
+   font-weight:bold;
+   margin-right:35px;
+   padding: 5px 3px 11px 8px;
+   color:#ffffff!important;
+   	
+}
+
+.deal-hover .social-links {
+  margin-top:5px;	
+}
+
+.dealtop-mrgn  {
+   top:34px!important;	
+}
+
+.deal-discription-txt  {
+   color: #f9f9f9; 
+   font: 12px/19px arial; 
+   text-decoration:none; 
+   vertical-align:middle; 
+   display:block; 
+   width:196px; 
+   text-align:justify; 	
+}
+
+.deal-discription-txt a {
+   color: #f9f9f9; 
+   font: 12px/19px arial !important; 
+   text-decoration:none; 
+   vertical-align:middle; 
+   display:block; 
+   width:196px; 
+   text-align:justify; 	
+}
+
+.deal-hover .gifttDeals span{ color:#fff; font:11px/20px 'OswaldBook', sans-serif; text-decoration:none; vertical-align:middle; display:block; width:196px; text-align:justify; }
+
+
+.deal-location-topmrgin {
+  clear:both;
+  padding-top: 8px;	
+}
+label.hshare{
+display: block;
+float: left;
+/*font: 12px/13px 'OswaldLight', sans-serif;*/
+font: 10px/13px Arial, Helvetica, sans-serif;
+color: #333333;
+margin:7px 7px 0 0px;
+text-transform: uppercase;
+}
+/*  listing hover pop up css end  */
+.socialmedaBox{/*float: left;*/
+    margin-left: 131px;
+	margin-top:5px;
+}
+.iconsprite{background:url(../images/new_iconsprite.png) no-repeat}
+.fbIcon{width:30px;height:25px;display:block;float:left; background-position:-47px -192px;cursor:pointer}
+.twIcon{width:30px;height:25px;display:block;float:left;background-position:-77px -192px;cursor:pointer}
+.mailIcon{width:30px;height:25px;display:block;float:left;background-position:-107px -192px;cursor:pointer}
+.gPlusIcon{width:30px;height:25px;display:block;float:left;background-position:-137px -192px;cursor:pointer}
+.giftIcon{width:30px;height:25px;display:block;float:left;background-position:-167px -192px;cursor:pointer}
+
+
+.pageDeals {/* background:#fff; ;box-shadow: 3px 4px 10px #CCC; */margin:0px 0px  0;  float:left; width:100%; position:relative; padding-bottom:0px; min-height:550px;}
+.pageDeals .catHead{ 
+	clear:both; 
+	/*font:bold 20px/14px 'OswaldLight', sans-serif; */
+	font:bold 19px/22px Arial, Helvetica, sans-serif;
+	color:#333333; 
+	margin:15px 0 15px; 
+	text-transform:uppercase !important; 
+	margin-top:0px;
+	letter-spacing:-0.7px;
+	}
+		
+.pageDeals .catHead a{ 
+	/*font:13px/14px 'OswaldLight', sans-serif; */
+	font:13px/14px Arial, Helvetica, sans-serif; 
+	color:#006699; 
+	padding-left:5px; 
+	text-transform:none;
+}
+
+.pageDeals .catHead-small{ 
+	clear:both; 
+	/*font:bold 20px/14px 'OswaldLight', sans-serif; */
+	font:bold 15px/22px Arial, Helvetica, sans-serif;
+	color:#333333; 
+	/*margin:15px 0 15px; */
+	text-transform:uppercase !important; 
+	margin-top:0px;
+	letter-spacing:-0.7px;
+	}
+.pageDeals .catHead-small a{ 
+	/*font:13px/14px 'OswaldLight', sans-serif; */
+	font:11px/14px Arial, Helvetica, sans-serif; 
+	color:#006699; 
+	padding-left:5px; 
+	text-transform:none;
+}
+.pageDeals .deal3 .dealBox figcaption a {
+color: #006699;
+font: bold 12px/14px Arial, Helvetica, sans-serif;
+}
+.pageDeals .deal3 .dealBox figcaption a.dealdesc{
+	color:#333333;
+	font: 12px Arial;
+	margin-top:5px;
+    margin-bottom:7px;
+	display:block;
+	height:34px;
+}
+.pageDeals .multiDeal{ margin-left:15px;}
+/*clear:both;*/
+.pageDeals .deal3{ width:705px;margin:0px 0 10px 0;}
+.pageDeals .deal3 .dealBox{ background:#fff;width:217px;  box-shadow: 0 0 2px #b2b2b2; height:300px; float:left; position:relative; margin-bottom:18px; margin-right:18px;*width:218px; width:217px\9; *margin-right:15px; margin-right:15px\9; *border:1px solid #ebebeb;border:1px solid #ebebeb \9;}
+.pageDeals .deal3 .dealBox:hover{ background:#fff;width:217px;  box-shadow: 0 0 8px #b2b2b2; height:300px; float:left; position:relative; margin-bottom:18px; margin-right:18px;*width:218px; width:217px\9; *margin-right:15px; margin-right:15px\9; *border:1px solid #ebebeb;border:1px solid #ebebeb \9;}
+
+/*.pageDeals .deal3 li:last-child{ display:none ;}*/
+.pageDeals .deal3 .dealBox figure{ width:215px; height:154px; position:relative;}
+.pageDeals .deal3 .dealBox .discoutB{ width:40px; height:26px; background:#80B12F; color:#fff; position:absolute; text-align:center; line-height:10px; padding-top:5px;  right: -2px; bottom:-4px; z-index:999;}
+.pageDeals .deal3 .dealBox .discoutB .num{ font:bold 15px/10px Arial, Helvetica, sans-serif;}
+.pageDeals .deal3 .dealBox .discoutB .per{font:bold 12px/10px Arial, Helvetica, sans-serif; padding-left:0px;}
+.pageDeals .deal3 .dealBox .discoutB .off{ display:block;font:10px Arial, Helvetica, sans-serif; margin-top:-2px;}
+.pageDeals .deal3 .dealBox .hotDeal{background:url(../images/hpSprite.png) no-repeat -304px -56px; width:50px; height:32px; position:absolute; z-index:999; top:-12px; left:-5px;}
+
+.pageDeals .deal3 .dealBox .catbox{background:url(../images/blackT.png) repeat; bottom:-4px; color: #FFFFFF; display: block; font: 10px/12px Arial,Helvetica,sans-serif; height: 21px; margin: 0; padding: 5px;  position: absolute; width: 207px; *left:0px;}
+.pageDeals .deal3 .dealBox figcaption{ padding:15px 0 9px 7px; float:left; height:60px; position:relative; width:203px;	}
+
+
+
+.pageDeals .deal3 .dealBox figcaption h3 a{   color: #006699;   font: 13px Arial,Helvetica,sans-serif;    text-decoration: none;}
+
+
+.pageDeals .deal3 .dealBox figcaption a{  color:#006699; font:bold 12px/14px Arial, Helvetica, sans-serif;}
+.pageDeals .deal3 .dealBox figcaption .addr{background:url(../images/hpSprite.png) no-repeat -18px -472px; color:#3D5B02;display:block; font-size:10px;  font-weight:normal; left:-5px;line-height:100%;padding-left:9px;    position:relative;top:5px;width:185px; font-style:normal; margin-left:5px; white-space:nowrap; overflow:hidden; }
+.pageDeals .deal3 .dealBox figcaption .addr.sel{ position:absolute; width:150px; background:#efefef url(../images/hpSprite.png) no-repeat 5px -675px; height:56px; width:125px; z-index:9999999; margin:25px 0 0 0px; padding:5px 5px 5px 15px; display:block; *height:55px; overflow:auto; white-space:normal;line-height:104%;}
+
+.pageDeals .deal3 .dealBox .buybox{ display:block; clear:left; width:100%; border-top:1px dotted #b7b7b7; float:left;margin-top:27px!important}
+.pageDeals .deal3 .dealBox .buybox li{ float:left; width:50px;border-right:1px dotted #b7b7b7; }
+.pageDeals .deal3 .dealBox .buybox .disprice{ font:12px/13px Arial, Helvetica, sans-serif; color:#333333;background:url(../images/hpSprite.png) no-repeat -7px -383px;padding:8px 5px 10px 18px; text-decoration:line-through;   }
+.pageDeals .deal3 .dealBox .buybox .price{background:url(../images/hpSprite.png) no-repeat -7px -383px; border:0px; padding:6px 18px 8px; *padding:8px 18px; width:32px; font-weight:bold; font-size:14px;  }
+.pageDeals .deal3 .dealBox .buybox .btnBuy1{ background:url("../images/new_iconsprite.png") no-repeat scroll -11px -128px transparent; display: block;
+    float: right;
+    height: 24px;
+    margin: 4px 0 0;
+    text-indent: -9999px;
+    width: 71px; }
+.pageDeals .deal3 .dealBox .buybox .btnBuy2{ background:url(../images/buynowProd.jpg) no-repeat; display:block; width:71px; height:24px; float:right; text-indent:-9999px; margin:4px 0 0 0; *position:absolute; *margin:-5px 0 0 25px; }
+
+
+.pageDeals .deal3 .dealBox .overlay{/*background:url(../images/blackB.png) repeat*/; position:absolute; top:0px; width:217px; height:158px; z-index:99999; left:0px; visibility:hidden;  }
+.pageDeals .deal3 .dealBox .overDiv{  padding:14px 10px 8px 10px ; z-index:99999;  visibility:hidden; /* background:url(../images/blackB.png) repeat; */}
+.pageDeals .deal3 .dealBox .overDiv a{font:15px/20px 'OswaldLight', sans-serif; color:#fff; width:100%; /*display:block;*/ }
+.pageDeals .deal3 .dealBox .overDiv .buyOver{background:url(../images/hpSprite.png) no-repeat -12px -300px; width:74px; height:24px; text-indent:-99999px; display:block; margin:6px 0 0 0; }
+.pageDeals .deal3 .dealBox:hover .overlay{visibility:visible;}
+.pageDeals .deal3 .dealBox:hover .overDiv{visibility:visible;}
+
+.pageDeals .deal3 .dealBox:hover span.trasparentBg{visibility:visible;background:url(../images/blackB.png) repeat;position:absolute; top:70px; padding:5px 10px 8px 10px ; z-index:99999; left:0px;width:198px; min-height:115px;}
+.pageDeals .deal3 .dealBox:hover span.trasparentBg_gift{visibility:visible;background:url(../images/blackB.png) repeat;position:absolute; top:0px; padding:5px 10px 8px 10px ; z-index:99999; left:0px;width:198px; height:30px;}
+
+
+/* aside CSS */
+
+.pageDeals .asideLoc{width:177px; background:#fff; box-shadow:2px 3px 4px #ebebeb; padding:18px; position:relative;   *float:left; *border:1px solid #ebebeb; border:1px solid #ebebeb\9; display:inline-block\9;  min-height: 500px;}
+.pageDeals .asideLoc .mainH{ font:16px/15px 'OswaldLight', sans-serif; background:#ff6000; padding:8px 5px 5px; color:#fff; text-align:center; margin-bottom:10px; font-weight:bold; *width:177px; text-transform:uppercase;}
+.pageDeals .asideLoc  .lbl1{ color:#333;font:13px/15px 'OswaldLight', sans-serif; line-height:28px; text-transform:uppercase;width:177px;}
+.pageDeals .asideLoc  .lbl2{ color:#333;font:12px/15px  Arial, Helvetica, sans-serif; line-height:25px; color:#5c5c5c; width:177px;  white-space:nowrap;}
+.pageDeals .asideLoc  .lbl2 span{ color:#999; font:10px/10px Arial, Helvetica, sans-serif; }
+.pageDeals .asideLoc .type{font:bold 13px/22px 'OswaldLight', sans-serif;  color:#333333; margin:15px 0 0px; letter-spacing:1px;text-transform:uppercase;width:177px;}
+.pageDeals .asideLoc .type .iconRefresh{background:url(../images/hpSprite.png) no-repeat -16px -430px; width:11px; height:11px; position:absolute; right:18px; margin-top:-15px; display:block;}
+.pageDeals .asideLoc .map{ margin:5px 0;width:177px;}
+.pageDeals .asideLoc .chkGorup{ border-bottom:1px dotted #adadad; padding-bottom:10px;width:177px;}
+.pageDeals .asideLoc .label_check{ padding:3px 0 5px 24px !important;}

@@ -1,0 +1,79 @@
+.bg-coupan-part .list-coupan li {
+    background:url(../images/coupon-big-normal.png) no-repeat scroll left top transparent;
+    float: left;
+    height: 282px;
+    margin: 0 10px 0 -5px;
+    overflow: hidden;
+    width: 225px;
+}
+				
+.bg-coupan-part .list-coupan li:hover {
+    background:url(../images/coupon-big-hover.png) no-repeat scroll left top transparent;
+    float: left;
+    height: 282px;
+    margin: 0 10px 0 -5px;
+    overflow: hidden;
+    width: 225px;
+}
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .worth-txt-part {
+    width:100%;
+	text-align: center;
+	display:inline;
+   
+   }
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .worth-txt {
+    color: #DCDCDC;
+    /*font: 14px/18px 'OswaldBook',sans-serif; */
+	font:701 14px/18px Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+	display:inline;
+    
+}
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .worth-rupee-txt {
+    color: #8BC246;
+    /*font: 22px/18px 'OswaldBold',sans-serif;*/
+	font:bold 22px/18px Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+	display:inline;
+}
+  
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .coupon-gray-bg {
+    background: url("../images/coupon-gray-bg.png") no-repeat scroll left center transparent;
+    height: 40px;
+    width: 81px;
+} 
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .black-active-btn{
+	
+	 background: none repeat scroll 0 0 #90C400;
+	margin: 32px 20px;
+	padding: 4px 12px;
+	position: relative;
+	text-align: center;
+	width: 102px;
+}
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part .black-active-btn:hover{
+	
+	 background:#90C400;
+   padding:4px 12px;
+   margin: 32px 20px ;
+   padding: 4px 12px;
+   position: relative;
+   text-align: center;
+   width: 102px;
+} 
+
+
+.bg-coupan-part .list-coupan li .inner-bg-coupan-part p.bdr-top-coupon-one {
+    border-bottom: 1px solid #EFEFEF;
+    display: block;
+    margin: 10px 0;
+    padding: 0;
+	border-top:none;
+	line-height:none;
+} 
