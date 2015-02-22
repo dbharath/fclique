@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>net.pcheck</groupId>
-    <artifactId>pcheck</artifactId>
+    <groupId>net.fclique</groupId>
+    <artifactId>fclique</artifactId>
     <packaging>war</packaging>
     <version>0.1</version>
-    <name>net.pcheck</name>
+    <name>net.fclique</name>
     <description/>
     <licenses>
         <license>
@@ -244,7 +244,7 @@
         </dependency>
     </dependencies>
     <build>
-        <finalName>pcheck</finalName>
+        <finalName>fclique</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -299,7 +299,7 @@
 <!-- http://maven.apache.org/guides/mini/guide-building-for-different-environments.html -->
 <id>openshift</id>
 <build>
-   <finalName>pcheck</finalName>
+   <finalName>fclique</finalName>
    <plugins>
      <plugin>
        <artifactId>maven-war-plugin</artifactId>

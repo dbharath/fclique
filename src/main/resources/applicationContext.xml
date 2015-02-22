@@ -26,6 +26,6 @@
     <!--
         Configures Spring Data JPA and sets the base package of my DAOs.
     -->
-    <jpa:repositories base-package="net.pcheck.repository"/>
+    <jpa:repositories base-package="net.fclique.repository"/>
     <bean id="multipartResolver"  class="org.springframework.web.multipart.commons.CommonsMultipartResolver"/>
 </beans>
