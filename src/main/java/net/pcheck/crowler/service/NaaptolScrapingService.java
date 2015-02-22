@@ -21,7 +21,7 @@ import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class NaaptolScrapingService extends ScrapingService {
     private Properties properties = new Properties();

@@ -2,7 +2,7 @@ package net.pcheck.crowler.service;
 import org.apache.log4j.Logger;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class LoggingService
 {

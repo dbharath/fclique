@@ -12,7 +12,7 @@ import net.pcheck.crowler.service.ServiceFactory;
 import net.pcheck.utils.ListUtil;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class ResponseAccumulator {
     private List<SiteResponse> responses;

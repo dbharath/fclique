@@ -20,7 +20,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class FlipkartScrapingService extends ScrapingService {
     private Properties properties = new Properties();

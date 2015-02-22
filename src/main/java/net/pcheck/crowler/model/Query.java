@@ -4,7 +4,7 @@ import net.pcheck.constants.Constants.SearchType;
 
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class Query {
     private String queryString;

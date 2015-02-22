@@ -7,7 +7,7 @@ import net.pcheck.crowler.model.Product;
 import net.pcheck.crowler.model.SiteResponse;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class AutoSuggestion
 {

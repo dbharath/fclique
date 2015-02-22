@@ -3,7 +3,7 @@ package net.pcheck.crowler.model;
 import java.util.List;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public class SiteResponse
 {

@@ -17,7 +17,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 /**
- * Created by vivek.gupta
+ * Created by devesh.bharathan
  */
 public abstract class ScrapingService {
     Map<Query, List<Product>> productsCache = new ConcurrentHashMap<Query, List<Product>>();
